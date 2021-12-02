@@ -13,4 +13,5 @@ public class UserData {
     @Email
     private String email;
     private String pass;
+    private String rut;
 }

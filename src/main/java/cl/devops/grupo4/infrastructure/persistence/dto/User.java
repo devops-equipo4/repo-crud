@@ -25,13 +25,15 @@ public class User {
     @Email
     private String email;
     private String pass;
+    private String rut;
 
     public User(UserData userData) {
-        this.name = userData.getUser();
+        this.name = userData.getName();
         this.lastName = userData.getLastName();
         this.user = userData.getUser();
         this.email = userData.getEmail();
         this.pass = userData.getPass();
+        this.rut = userData.getRut();
     }
 
 }

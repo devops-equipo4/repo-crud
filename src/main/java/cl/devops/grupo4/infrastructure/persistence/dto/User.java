@@ -1,5 +1,6 @@
 package cl.devops.grupo4.infrastructure.persistence.dto;
 
+import cl.devops.grupo4.infrastructure.controller.UserData;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -24,5 +25,13 @@ public class User {
     @Email
     private String email;
     private String pass;
+
+    public User(UserData userData) {
+        this.name = userData.getUser();
+        this.lastName = userData.getLastName();
+        this.user = userData.getUser();
+        this.email = userData.getEmail();
+        this.pass = userData.getPass();
+    }
 
 }

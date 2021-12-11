@@ -40,5 +40,10 @@ public class UserController {
 
     }
 
+    @PatchMapping("/user")
+    public void updateUser(@Valid @RequestBody UserData userData) {
+
+    }
+
 
 }

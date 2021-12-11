@@ -1,0 +1,87 @@
+commit c7f554518ceb95c54ba5d9fa7d6495279d8367d9
+Merge: 9a177d2 a73ac8f
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 11:02:26 2021 -0300
+
+    Merge branch 'feature-update'
+
+commit 9a177d26c87bc7b6e32c6592f43ea0641aea05c1
+Merge: 9071b57 1a506ac
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 11:00:55 2021 -0300
+
+    Merge branch 'feature-delete'
+
+commit 9071b57a0b39f73707580a2e9593629916852319
+Merge: 401e925 460bc39
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 11:00:20 2021 -0300
+
+    Merge branch 'feature-read'
+
+commit 401e9252935c0b586ab6fffc929016ace48a2e35
+Merge: eeee078 baca2bb
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 11:00:01 2021 -0300
+
+    Merge branch 'feature-create'
+
+commit a73ac8faf55b60122b96bbe98fa7352aea2a2389
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 10:59:36 2021 -0300
+
+    Metodo update
+
+commit 1a506ac300f90de48809db954bc4f65a08f759ea
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 10:58:58 2021 -0300
+
+    Metodo delete
+
+commit 460bc39d2e5205ee3ace96f7c9c2f8d394e42f80
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 10:57:58 2021 -0300
+
+    Metodo REad
+
+commit baca2bbb7cba012e885f203445ba306fb211d28e
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 10:56:29 2021 -0300
+
+    Metodo Crear
+
+commit eeee07837d4616673f3ce2a71d56e62e5f44f7ff
+Author: luismella <luismellareyes@gmail.com>
+Date:   Sat Dec 11 10:07:27 2021 -0300
+
+    se crean branch feature-read feature-delete feature-update feature-create
+
+commit a6f2776a7794b0fec9ababfa963f74ebd12f6ae0
+Author: luismella <luismellareyes@gmail.com>
+Date:   Mon Dec 6 16:30:52 2021 -0300
+
+    se crear branch feature-crud-usuarios
+
+commit e4c052e6c03e9a4d94d270fac06862a03b801f8f
+Author: luismella <luismellareyes@gmail.com>
+Date:   Fri Dec 3 17:34:49 2021 -0300
+
+    modif the method de create and object
+
+commit 832fc30cb9fff43d5f4578a0fc51565e6fda3189
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 20:27:26 2021 -0300
+
+    modif the method de create and object
+
+commit 3b77dee8574ce264b71938b5f58bfc3bdfacc36b
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 19:16:22 2021 -0300
+
+    endpoint de create
+
+commit dde5c4a23d629d89de5ab17b317a72e745385a99
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 17:45:58 2021 -0300
+
+    a

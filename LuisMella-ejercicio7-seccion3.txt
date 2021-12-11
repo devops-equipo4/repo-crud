@@ -1,0 +1,67 @@
+commit 1b911d20a3c95c614bc60aac8fd4a3e74eb0fe4c
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 9 19:22:55 2021 -0300
+
+    Revert "Se modifica README.md"
+    
+    This reverts commit 560468011b6dbd62ecb9a54d2a09ab38f84bf3cc.
+
+commit 560468011b6dbd62ecb9a54d2a09ab38f84bf3cc
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 9 18:36:12 2021 -0300
+
+    Se modifica README.md
+
+commit 8a0664cf83af3596a65055d805edb736e7b403be
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 9 18:35:06 2021 -0300
+
+    Se incorpora archivo README.md
+
+commit 6de3dc2cd9c10df79db7d248093451f3b3a43338
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 9 18:34:20 2021 -0300
+
+    Se incorpora extensiones *.log, *. class y /test en archivo .gitignore
+
+commit 3aae4377e0ac538275cb7888f1385f565a6e9cac
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 9 18:31:58 2021 -0300
+
+    Se incorpora archivo .gitignore
+
+commit 457a6e3162ffb497d859e409da7697b08b5c97b5
+Author: luismella <luismellareyes@gmail.com>
+Date:   Mon Dec 6 16:37:13 2021 -0300
+
+    Creacion de directorio test y archivo test.log
+
+commit 86d5f1437e4ec6eec8a008327ea9e1fc93bbb0f4
+Author: luismella <luismellareyes@gmail.com>
+Date:   Mon Dec 6 16:34:36 2021 -0300
+
+    creacion de branch feature-crud-usuarios
+
+commit e4c052e6c03e9a4d94d270fac06862a03b801f8f
+Author: luismella <luismellareyes@gmail.com>
+Date:   Fri Dec 3 17:34:49 2021 -0300
+
+    modif the method de create and object
+
+commit 832fc30cb9fff43d5f4578a0fc51565e6fda3189
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 20:27:26 2021 -0300
+
+    modif the method de create and object
+
+commit 3b77dee8574ce264b71938b5f58bfc3bdfacc36b
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 19:16:22 2021 -0300
+
+    endpoint de create
+
+commit dde5c4a23d629d89de5ab17b317a72e745385a99
+Author: luismella <luismellareyes@gmail.com>
+Date:   Thu Dec 2 17:45:58 2021 -0300
+
+    a

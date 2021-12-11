@@ -35,5 +35,10 @@ public class UserController {
 
     }
 
+    @DeleteMapping("/user")
+    public void deleteUser(@Valid @RequestBody UserData userData) {
+
+    }
+
 
 }
